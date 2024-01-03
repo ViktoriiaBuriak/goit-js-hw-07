@@ -58,6 +58,6 @@ h2 {
   padding-left: 16px;
 }
 
-li:not(:last-child) {
+.category-items:not(:last-child) {
   margin-bottom: 8px;
 }
